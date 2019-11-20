@@ -26,7 +26,7 @@ The dashboard includes the following:
 
 * A navigation menu containing the name of the project, a dropdown, and a link to data page
 
-* GitHub pages.
+* Deployment to GitHub pages.
 
 
 ## Methods Used
