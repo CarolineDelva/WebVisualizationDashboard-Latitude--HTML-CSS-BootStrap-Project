@@ -55,14 +55,14 @@ When finished, submit to BootcampSpot the links to 1) the deployed app and 2) th
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Find the CSV in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js) folder.
-
-3. Find the JavaScript code in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/app2.js) folder.
-4. Find the HTML file as [index.html](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/index.html).
-5. Find the CSS code in the [css](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/tree/master/static/css) folder.
-4. Run the codes in a editor like[Visual Studio Code](https://code.visualstudio.com/).
+2. Find HTML pages in the [main folder](https://github.com/CarolineDelva/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project).
+3. Find CSS pages in the [main folder](https://github.com/CarolineDelva/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project).
+4. Find the [cities.csv](https://github.com/CarolineDelva/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project/blob/master/Resources/cities.csv) in the Resources folder.
+5. The final page is deployed to Github and a Github Page is created. 
 
 ## Output
+
+See the Latitude Dashboard in action: [Latitude]( https://carolinedelva.github.io/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project/)
 
 
 #### Landing page
