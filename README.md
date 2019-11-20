@@ -94,6 +94,14 @@ Large screen:
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
 
+## Conclusion
+
+* The temperature increases as we approche the equator and decreases as we move away from the equator.
+* There are high levels of humidity throughout all Lattitude.
+* The wind speed is lower in the north pole.
+* There was no visible correlation between Cloudiness and City Latitude.
+
+
 
 ## Contact
 * [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
