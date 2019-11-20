@@ -41,6 +41,29 @@ Finally, the website must be deployed to GitHub pages.
 
 When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
 
+## Methods Used
+* Data visualization
+* Data exploration
+* Web Development
+
+
+## Technologies
+* HTML
+* CSS
+* Github Pages
+
+## Getting Started
+
+1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
+2. Find the CSV in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/data.js) folder.
+
+3. Find the JavaScript code in the [JS](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/static/js/app2.js) folder.
+4. Find the HTML file as [index.html](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/blob/master/index.html).
+5. Find the CSS code in the [css](https://github.com/CarolineDelva/UFOSightingsTabularDashboard-/tree/master/static/css) folder.
+4. Run the codes in a editor like[Visual Studio Code](https://code.visualstudio.com/).
+
+## Output
+
 
 #### Landing page
 
@@ -68,8 +91,6 @@ Small screen:
 ![data page small screen](Images/data-sm.png)
 
 #### Visualization pages
-
-You'll build four of these, one for each visualization. Here's an example of one:
 
 Large screen:
 ![visualize page large screen](Images/visualize-lg.png)
