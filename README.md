@@ -50,7 +50,7 @@ The dashboard includes the following:
 
 ## Output
 
-See the Latitude Dashboard in action: [Latitude]( https://carolinedelva.github.io/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project/)
+See the Latitude Dashboard in action: [Latitude Dashboard]( https://carolinedelva.github.io/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project/)
 
 
 #### Landing page
@@ -93,3 +93,8 @@ Large screen:
 
 Small screen:
 ![nav menu small screen](Images/nav-sm.png)
+
+
+## Contact
+* [Visit my LinkedIn](https://www.linkedin.com/in/caroline-delva-5184a172/) 
+* [Visit my portfolio](https://carolinedelva.github.io/CarolineDelvaPortfolio/) 
