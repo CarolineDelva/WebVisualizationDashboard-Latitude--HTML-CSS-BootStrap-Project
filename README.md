@@ -11,7 +11,7 @@ I completed this project during my time at the [Columbia Engineering Data Analyt
 
 ## Project Description
 
-The purpose of this project is to create a visualization dashboard website using [weather data](Resources/cities.csv).
+The purpose of this project is to create a visualization dashboard website using [weather data](Resources/cities.csv) deployed to Github Pages.
 
 The dashboard includes the following: 
 
@@ -24,16 +24,10 @@ The dashboard includes the following:
 
 * A "Data" page of a responsive table containing [cities.csv](https://github.com/CarolineDelva/WebVisualizationDashboard-Latitute-HTML-CSS-BootStrap-Project/blob/master/Resources/cities.csv).
 
-The website must, at the top of every page, have a navigation menu that:
+* A navigation menu containing the name of the project, a dropdown, and a link to data page
 
-* Has the name of the site on the left of the nav which allows users to return to the landing page from any page.
-* Contains a dropdown on the right of the navbar named "Plots" which provides links to each individual visualization page.
-* Provides two more links on the right: "Comparisons" which links to the comparisons page, and "Data" which links to the data page.
-* Is responsive (using media queries). The nav must have similar behavior as the screenshots ["Navigation Menu" section](#navigation-menu) (notice the background color change).
+* GitHub pages.
 
-Finally, the website must be deployed to GitHub pages.
-
-When finished, submit to BootcampSpot the links to 1) the deployed app and 2) the GitHub repository.
 
 ## Methods Used
 * Data visualization
